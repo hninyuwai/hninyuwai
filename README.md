@@ -1,16 +1,20 @@
-## Hi there 👋
+Hello I'm Yu Wai.
 
-<!--
-**hninyuwai/hninyuwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer with a focus on backend development using Java Spring Boot and frontend development with Flutter. I'm currently exploring video streaming technologies to broaden my skill set.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Backend: Java, Spring Boot, RESTful APIs
+- Frontend: Flutter
+- Databases: PostgreSQL, MySQL
+- Tools: Git, Maven, Gradle
+- Cloud: AWS (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Project
+I'm currently working on a Personal Video Streaming Platform. This project combines my skills in Spring Boot and Flutter, while allowing me to dive into video streaming technologies.
+
+
+## 🌱 I'm currently learning
+- Advanced video streaming protocols (HLS, MPEG-DASH)
+- Cloud deployment for media applications
+- Performance optimization for mobile video playback
